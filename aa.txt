@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sasdsjdhsndjsdjsxdjhsxb 
+=======
+sasdsjdhsndjsdjsxdjhsxb kjlukukyhuhjbjgjhghghj
+>>>>>>> my_inaam
