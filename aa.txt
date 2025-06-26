@@ -2,9 +2,14 @@
 sasdsjdhsndjsdjsxdjhsxb 
 =======
 sasdsjdhsndjsdjsxdjhsxb kjlukukyhuhjbjgjhghghj
+<<<<<<< HEAD
 >>>>>>> my_inaam
 
 
 IYYYYYYYYYYYYYYYYYYYYYYYYYY
 JKKKKKKKKKKKKKKKKKKKKKKK
 KJHHHHHHHHHHH
+=======
+
+;l;;;;;;;;;;;;;;;;;;;;jhkjhkjhjhkjhjk
+>>>>>>> my_inaam
